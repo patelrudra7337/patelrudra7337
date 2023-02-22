@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patelrudra7337
-- 👀 I have learned HTML, CSS, Javascript, AngularJS, NodeJS, SQL, c++, c in engineering
+- 👀 I have learned HTML, CSS, Javascript, NodeJS, SQL, c++, c in engineering
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact on email id: patelrudra7337@gmail.com and chat on @thisispatelrudra
