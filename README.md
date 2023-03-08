@@ -2,7 +2,7 @@
 - 👀 I have learned C, HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACT and SQL.
 - Editor: VScode
 - TOOLS: POSTMAN, MONGODB COMPASS, SQL GEEKBENCH  
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning optimizing the website
 - 💞️ I’m looking to collaborate on any project just email me on patelrudra7337@gmail.com
 - 📫 Contact on email id: patelrudra7337@gmail.com and chat on instagram profile: @thisispatelrudra
 
