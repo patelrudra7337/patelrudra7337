@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @patelrudra7337
-- 👀 I have learned C, HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACT and SQL.
+- 👀 I have learned C, HTML5, CSS3, JAVASCRIPT, MONGODB, EXPRESSJS, REACTJS and NODEJS.
 - Editor: VScode
-- TOOLS: POSTMAN, MONGODB COMPASS, SQL GEEKBENCH  
-- 🌱 I’m currently learning optimizing the website
-- 💞️ I’m looking to collaborate on any project just email me on patelrudra7337@gmail.com
-- 📫 Contact on email id: patelrudra7337@gmail.com and chat on instagram profile: @thisispatelrudra
-
-<!---
-patelrudra7337/patelrudra7337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- TOOLS: POSTMAN, MONGODB COMPASS,
+- 🌱 I’m currently learning MERN stack in detail.
+- 💞️ I’m currently looking for a job as a MERN Stack developer
+- 📫 Contact on email id: patelrudra7337@gmail.com and chat on instagram profile: @patelrudra.zip
