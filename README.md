@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelrudra7337
-- 👀 I have learned C, HTML5, CSS3, JAVASCRIPT, MONGODB, EXPRESSJS, REACTJS and NODEJS.
+- 👀 I have learned C, HTML5, CSS3, JAVASCRIPT, PHP AND CODEIGNITER 3 AND 4.
 - Editor: VScode
-- TOOLS: POSTMAN, MONGODB COMPASS,
-- 🌱 I’m currently learning MERN stack in detail.
-- 💞️ I’m currently looking for a job as a MERN Stack developer
-- 📫 Contact on email id: patelrudra7337@gmail.com and chat on instagram profile: @patelrudra.zip
+- TOOLS: VS CODE, POSTMAN
+- 🌱 I’m learning side by side reactjs stack in detail.
+- 💞️ I’m currently looking for a job as Full Stack developer in php position.
+- 📫 Contact on email id: patelrudra11122001@gmail.com and chat on instagram profile: @patelrudra.zip
